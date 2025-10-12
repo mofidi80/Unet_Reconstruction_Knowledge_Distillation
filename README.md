@@ -21,10 +21,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#skills-required">Skills Required</a><li>
       </ul>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#possible-usage">Possible Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -43,7 +41,7 @@ This project implements a sophisticated U-Net architecture that simultaneously p
 - **Multi-modal Output**: Generates both segmentation masks and reconstructed images
 
 ### Results
-
+(After 10 epochs)
 **Test Metrics:**
 - PSNR: 23.23 dB
 - SSIM: 0.859
